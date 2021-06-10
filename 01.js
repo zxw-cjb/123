@@ -1,3 +1,4 @@
 const a = 1
 const b = 2
-console.log(a + b)
+const c = 4
+console.log(a + b + c)
